@@ -7,5 +7,4 @@
 
 В этом разделе расмторим:
 1. [Создание репозитория](CreateRepositories.md).
-2. [Инициализацию репозитория](InitializationRepositories.md).
-3. [Клонирование репозитория](CloneRepositories.md).
+2. [Инициализация репозитория](InitializationRepositories.md).
